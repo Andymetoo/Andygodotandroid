@@ -1,0 +1,36 @@
+# Godot-specific
+.import/
+export.cfg
+export_presets.cfg
+.godot/
+
+# Mono (C#) specific
+.mono/
+data_*/
+mono_crash.*.json
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux system files
+*~
+
+# IDE/editor-specific
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.pidb
+*.sln
+*.booproj
+
+# Build artifacts
+bin/
+obj/
