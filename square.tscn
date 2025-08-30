@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://c68gd6s1f713t"]
+
+[ext_resource type="Script" uid="uid://cduyiq2ncmji0" path="res://squarescr.gd" id="1_2eeqm"]
+
+[node name="Square" type="ColorRect"]
+offset_left = -282.0
+offset_top = -1.0
+offset_right = -182.0
+offset_bottom = 99.0
+color = Color(1, 0, 0, 1)
+script = ExtResource("1_2eeqm")
